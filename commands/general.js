@@ -170,7 +170,7 @@ cmd({
 .logo30 text
 
 
-https://www.instagram.com/noureddine_ouafy
+instagram.com/noureddine_ouafy
 `,
 
                 footer: tlang().footer,
