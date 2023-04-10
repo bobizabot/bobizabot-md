@@ -55,16 +55,15 @@ cmd({
     },
     async(Void, citel) => {
         let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
-        let cap = `*🌐 𝗣𝗥𝗔𝗕𝗔𝗧𝗛-𝗠𝗗 _𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ♦️*
+        let cap = `*bobiz bot by noureddine ouafy ♦️*
 
-●. *Support group :* https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM
+●. *Support group :*https://www.instagram.com/noureddine_ouafy
 
-●. *Github:* https://github.com/PrabathLK/PRABATH_MD
+●. *Github:* https://www.instagram.com/noureddine_ouafy
 
-●. *Developer:* https://github.com/PrabathLK
+●. *Developer:* https://www.instagram.com/noureddine_ouafy
 
-ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ
-ʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸
+https://www.instagram.com/noureddine_ouafy
 `
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -171,8 +170,7 @@ cmd({
 .logo30 text
 
 
-ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ
-ʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸
+https://www.instagram.com/noureddine_ouafy
 `,
 
                 footer: tlang().footer,
@@ -416,7 +414,7 @@ cmd({
                 caption: `
 
 ┌────────────────────────────
-│  👨‍💻 *PRABATH-MD* 👨‍💻  *COMMANDS* 🎗️
+│  https://www.instagram.com/noureddine_ouafy
 └────────────────────────────
 
 
@@ -424,8 +422,6 @@ cmd({
 │.song
 │.video
 │.apk
-│.docsong (not working fix soon)
-│.docvideo (not working fix soon)
 │.fb
 │.tiktok
 │.img
@@ -485,8 +481,7 @@ cmd({
 │.sn
 └─────────◉
 
-ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ
-ʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸
+https://www.instagram.com/noureddine_ouafy
 `,
 
                 footer: tlang().footer,
@@ -559,8 +554,7 @@ cmd({
 ✅ *ACTIVE ADD AND LEFT MSJ -* .act events
 ❌ *DEACTIVE ADD AND LEFT MSJ -* .deact events
 
-ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ
-ʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸
+https://www.instagram.com/noureddine_ouafy
 `,
 
 
